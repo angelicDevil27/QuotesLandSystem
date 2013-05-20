@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+		<title>Quotes</title>
+		 <link rel="shortcut icon" href="images/heart.jpg">
+   
+	<script src="js/jquery-1.8.2.min.js" type="text/javascript"></script>
+	<script src="js/jquery-ui-1.9.2.custom.min.js"></script>
+	<script src="js/jquery-ui.js" type="text/javascript"></script>
+	<script src="js/mySystem.js" type="text/javascript"></script>
+	<script src="js/bootstrap.js" type="text/javascript"></script>
+	<script src="js/bootstrap.min.js" type="text/javascript"></script>
+
+	 
+	  <link rel='stylesheet' href='css/jquery-ui-1.9.2.custom.min.css' style='text/css'>  
+	  <link rel='stylesheet' href='css/jquery-ui.css' style='text/css'>
+	  <link rel='stylesheet' href='css/system.css' style='text/css' />
+	  <link rel='stylesheet' href='css/bootstrap.min.css' style='text/css' /> 
+	  <link rel='stylesheet' href='css/bootstrap-responsive.css' style='text/css' />
+	  <link rel='stylesheet' href='css/bootstrap-responsive.min.css' style='text/css' />  
+					
+					
+					
+  </head>
+  
+	<body>
+	
+	
+	    
+	        <div class="container-fluid">
+				 <div class="row-fluid">
+				 <div class="span2">
+				 <!--Sidebar content-->
+				 </div>
+				 <div class="span10">
+				 <!--Body content-->
+				 		<p>hello everyone</p>
+				 </div>
+				 </div>
+    		</div>
+    		
+    		
+    		    <p class="muted">Fusce dapibus, tellus ac cursus commodo, tortor mauris nibh.</p>
+				 <p class="text-warning">Etiam porta sem malesuada magna mollis euismod.</p>
+				 <p class="text-error">Donec ullamcorper nulla non metus auctor fringilla.</p>
+				 <p class="text-info">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis.</p>
+				 <p class="text-success">Duis mollis, est non commodo luctus, nisi erat porttitor ligula.</p>
+
+
+				    <address>
+					 <strong>Twitter, Inc.</strong><br>
+					 795 Folsom Ave, Suite 600<br>
+					 San Francisco, CA 94107<br>
+					 <abbr title="Phone">P:</abbr> (123) 456-7890
+					 </address>
+					  
+					 <address>
+					 <strong>Full Name</strong><br>
+					 <a href="mailto:#">first.last@example.com</a>
+					 </address>
+
+
+
+			
+			  <blockquote>
+    				<p>Love is like a rosary that full of mystery.</p>
+    				<small>Someone famous <cite title="Source Title">Source Title</cite></small>
+  			 </blockquote>
+		
+	</body>  
+</html>
+
+
+
+

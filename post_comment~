@@ -1,0 +1,11 @@
+<?php
+	include 'DAO/SystemDAO.php';
+		
+	$action = new SystemDAO();
+	
+	$quotes_id = $_POST['quotes_id'];
+	 
+	$comment_id = $_POST ['comment_id'];
+		$action->post_comment($comment_id);
+
+?>

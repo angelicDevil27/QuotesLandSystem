@@ -1,0 +1,7 @@
+<?php
+	include '../DAO/SystemDAO.php';
+		
+	$action = new SystemDAO();
+		$action->display_comment();
+
+?>
